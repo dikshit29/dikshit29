@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @dikshit29
-- 👋 About Me
+
+👋 About Me
+
 I am a passionate Java Fullstack Developer with expertise in building robust, scalable, and user-friendly applications. With a strong foundation in both backend and frontend technologies, I thrive on crafting seamless user experiences and efficient software solutions.
 
 💼 Skills
