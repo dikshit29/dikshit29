@@ -27,7 +27,7 @@ Advanced React features and state management libraries.
 📫 How to reach me
 
 Feel free to check out my projects or reach out:
-https://github.com/dikshit29/dikshit29/edit/main/README.md
+https://github.com/dikshit29
 
 
   
