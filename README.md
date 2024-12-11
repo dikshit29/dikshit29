@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dikshit29
+- 👋 Hi, I’m S Naga Dikshit
 
 👋 About Me
 
