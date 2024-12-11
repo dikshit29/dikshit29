@@ -24,10 +24,13 @@ Continuously learn and implement new technologies.
 Cloud-native development with Kubernetes.
 Advanced React features and state management libraries.
 
+📫 How to reach me
 
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Feel free to check out my projects or reach out:
+https://github.com/dikshit29/dikshit29/edit/main/README.md
+
+
+  
 
 <!---
 dikshit29/dikshit29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
