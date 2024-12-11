@@ -1,4 +1,26 @@
 - 👋 Hi, I’m @dikshit29
+- 👋 About Me
+I am a passionate Java Fullstack Developer with expertise in building robust, scalable, and user-friendly applications. With a strong foundation in both backend and frontend technologies, I thrive on crafting seamless user experiences and efficient software solutions.
+
+💼 Skills
+
+Backend: Java, Spring Boot, Hibernate, REST APIs
+Frontend: HTML, CSS, JavaScript, React/Angular
+Database: MySQL, PostgreSQL, MongoDB
+Tools & DevOps: Git, Docker, Jenkins, AWS
+Other: Microservices, Agile Development
+
+🚀 What I Do
+
+Design and develop end-to-end web applications.
+Collaborate on Agile teams to deliver quality software.
+Integrate modern UI/UX with performant backend systems.
+Continuously learn and implement new technologies.
+
+🌱 Currently Exploring
+
+Cloud-native development with Kubernetes.
+Advanced React features and state management libraries.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
